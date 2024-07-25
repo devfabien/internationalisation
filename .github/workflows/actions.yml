@@ -26,5 +26,8 @@ jobs:
       - name: install dependencies
         run: npm install
 
-      - name: build the project
-        run: eas build --non-interactive
+      - name: build for android
+        run: eas build --platform android --profile preview
+
+      - name: build for ios
+        run: eas build --platform ios --profile preview

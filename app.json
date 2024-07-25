@@ -30,6 +30,12 @@
         "projectId": "7ac89ffc-96b8-43ab-88c8-0532ae9d1d4f"
       }
     },
-    "owner": "ishfabien"
+    "owner": "ishfabien",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/7ac89ffc-96b8-43ab-88c8-0532ae9d1d4f"
+    }
   }
 }

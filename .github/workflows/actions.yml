@@ -26,8 +26,5 @@ jobs:
       - name: install dependencies
         run: npm install
 
-      - name: init eas
-        run: eas init --non-interactive
-
       - name: build the project
         run: eas build --platform all --non-interactive

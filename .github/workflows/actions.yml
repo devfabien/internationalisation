@@ -27,7 +27,7 @@ jobs:
         run: npm install
 
       - name: build for android
-        run: eas build --platform android --profile preview
+        run: eas build --platform android --profile preview --non-interactive
 
       - name: build for ios
-        run: eas build --platform ios --profile preview
+        run: eas build --platform ios --profile preview --non-interactive

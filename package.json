@@ -18,7 +18,7 @@
     "expo-updates": "~57.0.17"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0",
+    "@babel/core": "^7.29.6",
     "@types/react": "~18.2.45",
     "typescript": "^5.1.3"
   },

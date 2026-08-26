@@ -9,7 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~51.0.22",
+    "expo": "~55.0.12",
     "expo-status-bar": "~1.12.1",
     "i18next": "^23.12.2",
     "react": "18.2.0",

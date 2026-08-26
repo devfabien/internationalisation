@@ -14,7 +14,7 @@
     "i18next": "^23.12.2",
     "react": "18.2.0",
     "react-i18next": "^15.0.0",
-    "react-native": "0.82.1",
+    "react-native": "0.87.0",
     "expo-updates": "~57.0.17"
   },
   "devDependencies": {
